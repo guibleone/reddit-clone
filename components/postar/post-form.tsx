@@ -51,7 +51,7 @@ export default function PostForm() {
             <FormItem>
               <FormControl>
                 <Input
-                  className="text-gray-200 bg-transparent border-gray-100"
+                  className="text-gray-500 placeholder:text-gray-500 bg-transparent border-gray-500"
                   placeholder="Título"
                   {...field}
                 />
